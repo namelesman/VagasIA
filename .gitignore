@@ -1,0 +1,21 @@
+# Ambiente Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Variáveis de ambiente secretas (NUNCA SUBIR PRO GITHUB)
+.env
+
+# Pastas de dados do projeto
+vagas_nao_aplicadas/
+Vagas_Aplicadas/
+*.jpg
+*.jpeg
+*.png
+*.pdf
+
+# Logs e outros
+*.log
